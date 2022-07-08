@@ -1,5 +1,5 @@
-👋 hello, i am blu
+# 👋 hello, i am blu
 
-absolute beginner in python
+python beginner
 
 working on random projects as of now
