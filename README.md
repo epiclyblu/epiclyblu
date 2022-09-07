@@ -1,6 +1,11 @@
 # 👋 hey there, i'm blu!
 
-## **Programming Languages I Know/Use**
-![Python](https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png) 
-![Java](https://cdn.freebiesupply.com/logos/large/2x/java-4-logo-png-transparent.png)
+### Programming languages I code in
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="64" height="64"> 
+
+#### Contact me on **Discord**: `bluu#3413`
+
+
+
 
